@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mahdisahar
 - 👀 I’m interested in Drawing and Reading 
-- 🌱 I hold a certificate as a Full-Stack Web Developer
-- 💞️ I’m building my own website, making project as much as i can to practise.
+- 🌱 I am a Full-Stack Developer I have passion with coding and enjoying creating different type of websites
+- 💞️Creating websites from HTML, CSS and JavaScript 
+- Built Learn Everything about Iraq website, Count, Responsive navbar with video background including Social Media Icons, Slide Images
 
 <!---
 Mahdisahar/Mahdisahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
